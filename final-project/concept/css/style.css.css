@@ -1,0 +1,100 @@
+ <!DOCTYPE html>
+<html lang="en">
+    <head>
+
+
+/* 
+  External stylesheet for my final project concept development
+*/ 
+
+
+/* 
+  Reset
+*/
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+.my-label {
+    font-family: sans-serif; 
+    color: rgb(255,0,0);
+ }
+        /* 
+  Color & Style
+ */
+
+        div {
+            color: #fff;
+            background-color: rgb(170, 180, 190);
+            outline: 1px solid #000;
+}
+
+            div.level2 {
+                background-color: rgb(130, 140, 150)
+            }
+
+
+            div.flex-box {
+                outline: none;
+            }
+
+
+         /*
+    Layout
+  */
+
+            div {
+            padding: 5px;
+             }
+        
+        
+             div.flex-box {
+                 
+            }
+        
+            div.level2 {
+                display: block;
+                background-color: rgb(130, 140, 150);
+                height: 5vw;
+            }
+
+            div.level2 {
+                height: 5vw;
+                width: 33.3%;
+            }
+
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+                {
+                display: block;
+                width: 100%;
+            }
+    /**
+    Layout-header
+  **/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
