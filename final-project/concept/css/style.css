@@ -16,7 +16,11 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+            scroll-behavior: smooth;
         }
+a {
+    text-decoration: none
+}
 
 .my-label {
     font-family: sans-serif; 
@@ -41,7 +45,40 @@
                 outline: none;
             }
 
+/*
+Navigation
+*/
 
+nav  {
+    background-color: rgb(0,128,200);
+ }
+
+
+nav ul {
+    list-style-type: none;
+}
+
+
+nav#main-navigation ul li {
+    padding: ; 
+        
+}
+
+nav#main-navigation ul li {
+    margin-right: 3px; 
+        
+}
+
+nav#main-navigation ul li {
+    color: aliceblue; 
+     background-color: 
+         padding
+    
+nav#main-navigation ul li {
+    display: flex; 
+     }   
+        
+        
          /*
     Layout
   */
@@ -84,9 +121,16 @@
 
 
 
+/**
+Layout-ccontent
+**/
 
 
 
+
+/**
+Layout-Footer
+**/
 
 
 
